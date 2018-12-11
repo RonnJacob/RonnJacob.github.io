@@ -37,7 +37,7 @@ header {
    animation: moveIt 10s linear infinite;
 }
 
-@keyframes moveIt {
+@-webkit-keyframes moveIt {
   from {background-position: bottom left;}
   to {background-position: top left;}
 }
