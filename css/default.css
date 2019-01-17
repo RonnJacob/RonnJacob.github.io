@@ -112,6 +112,24 @@ table {
    border-spacing: 0;
 }
 
+.blinker{
+  height: 20px;
+  margin-bottom: -4px;
+  width: 2px;
+  background: black;
+  opacity: 0;
+  display: inline-block;
+  animation: blink 0.5s linear infinite alternate;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
 
 /* ------------------------------------------------------------------ */
 /* c. Default and Basic Styles
