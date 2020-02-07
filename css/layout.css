@@ -35,13 +35,9 @@ header {
 	-webkit-background-size: cover !important;
    text-align: center;
    overflow: hidden;
-   animation: moveIt 10s linear infinite;
+   /* animation: moveIt 10s linear infinite; */
 }
 
-@-webkit-keyframes moveIt {
-  from {background-position: bottom left;}
-  to {background-position: top left;}
-}
 
 /* vertically center banner section */
 header:before {
