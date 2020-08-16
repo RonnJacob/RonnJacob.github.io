@@ -636,6 +636,22 @@ ul#nav li.current a { color: #F06000; }
 	filter:alpha(opacity=100);
 }
 
+.description-box p{
+   padding-left: 5%;
+   padding-right: 5%;
+}
+
+.description-box h4{
+   padding-left: 5%;
+   padding-right: 5%;
+}
+
+.description-box span{
+   
+   padding-right: 10%;
+   padding-right: 5%;
+}
+
 /* popup modal */
 .popup-modal {
 	max-width: 550px;
@@ -653,6 +669,8 @@ ul#nav li.current a { color: #F06000; }
 	font: 14px/24px 'opensans-regular', sans-serif;
    color: #A1A1A1;
    margin-bottom: 12px;
+   padding: 20px 36px 18px 36px; 
+
 }
 .popup-modal .description-box .categories {
    font: 11px/21px 'opensans-light', sans-serif;
@@ -680,7 +698,10 @@ ul#nav li.current a { color: #F06000; }
 .popup-modal a:hover {	color: #00CCCC; }
 .popup-modal a.popup-modal-dismiss { margin-left: 24px; }
 
-
+.categories{
+   padding-left: 2%;
+   padding-right: 2%;
+}
 /* fadein/fadeout effect for modal popup
 /* ------------------------------------------------------------------ */
 
