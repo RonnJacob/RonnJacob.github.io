@@ -378,6 +378,80 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
+.java-python-csharp {
+   width: 90%;
+   -moz-animation: photoshop 2s ease;
+   -webkit-animation: photoshop 2s ease;
+}
+
+.javascript-cplusplus {
+   width: 80%;
+   -moz-animation: photoshop 2s ease;
+   -webkit-animation: photoshop 2s ease;
+}
+
+.scala-scheme {
+   width: 60%;
+   -moz-animation: photoshop 2s ease;
+   -webkit-animation: photoshop 2s ease;
+}
+
+.html5-css3 {
+   width: 95%;
+   -moz-animation: photoshop 2s ease;
+   -webkit-animation: photoshop 2s ease;
+}
+
+.react-angular-rest{
+   width: 95%;
+   -moz-animation: photoshop 2s ease;
+   -webkit-animation: photoshop 2s ease;
+}
+
+.spring-express-node{
+   width: 95%;
+   -moz-animation: photoshop 2s ease;
+   -webkit-animation: photoshop 2s ease;
+}
+
+
+.git-elasticsearch{
+   width: 100%;
+   -moz-animation: photoshop 2s ease;
+   -webkit-animation: photoshop 2s ease;
+}
+
+.docker-kubernetes{
+   width: 75%;
+   -moz-animation: photoshop 2s ease;
+   -webkit-animation: photoshop 2s ease;
+}
+
+.mvn-aws-spark {
+   width: 55%;
+   -moz-animation: photoshop 2s ease;
+   -webkit-animation: photoshop 2s ease;
+}
+
+.sqlserver-mysql-mongodb{
+   width: 90%;
+   -moz-animation: photoshop 2s ease;
+   -webkit-animation: photoshop 2s ease;
+}
+
+.sqlite{
+   width: 70%;
+   -moz-animation: photoshop 2s ease;
+   -webkit-animation: photoshop 2s ease;
+}
+
+.dynamodb{
+   width: 40%;
+   -moz-animation: photoshop 2s ease;
+   -webkit-animation: photoshop 2s ease;
+}
+
+
 .photoshop {
   	width: 60%;
   	-moz-animation: photoshop 2s ease;
